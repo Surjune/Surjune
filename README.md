@@ -12,8 +12,6 @@
 
 B.Sc. Data Science undergraduate at **Sri Krishna Arts and Science College, Coimbatore**, building practical solutions across AI, full-stack development, data science, and cybersecurity.
 
-Currently exploring roles in **Agentic AI** as part of the AWS community at my college.
-
 > **Open to opportunities** in AI/ML, Full-stack Development, Data Analysis, and Cybersecurity.
 
 ---
