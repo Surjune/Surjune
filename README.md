@@ -89,7 +89,7 @@ Currently exploring roles in **Agentic AI** as part of the AWS community at my c
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Surjune&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" alt="Surjune's GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surjune&theme=tokyonight" alt="Surjune's GitHub stats" />
 
 </div>
 
