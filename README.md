@@ -42,7 +42,7 @@ B.Sc. Data Science undergraduate at **Sri Krishna Arts and Science College, Coim
 
 ### 🤖 AI / Machine Learning
 
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Hybrid_Search](https://img.shields.io/badge/Hybrid_Search_+_BM25-8E44AD?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Vector_Search](https://img.shields.io/badge/Vector_Search-00A67E?style=for-the-badge&logo=databricks&logoColor=white)
 ![Speech](https://img.shields.io/badge/Speech_%26_TTS-4285F4?style=for-the-badge&logo=googleassistant&logoColor=white)
@@ -57,12 +57,12 @@ B.Sc. Data Science undergraduate at **Sri Krishna Arts and Science College, Coim
 
 ### 🧰 Tools & Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white)
 
 </div>
 
