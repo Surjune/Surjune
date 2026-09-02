@@ -86,7 +86,7 @@ B.Sc. Data Science undergraduate at **Sri Krishna Arts and Science College, Coim
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Surjune&theme=tokyonight&hide_border=true&border_radius=10" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Surjune&theme=tokyonight&hide_border=true&border_radius=10&v=2" alt="Contribution streak" />
 
 <br /><br />
 
