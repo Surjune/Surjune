@@ -86,12 +86,12 @@ B.Sc. Data Science undergraduate at **Sri Krishna Arts and Science College, Coim
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Surjune&theme=tokyonight&hide_border=true&border_radius=10&v=2" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Surjune&theme=tokyonight&hide_border=true&border_radius=10&v=3" alt="Contribution streak" />
 
 <br /><br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surjune&theme=tokyonight" alt="GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surjune&theme=tokyonight" alt="Languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surjune&theme=tokyonight&v=3" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surjune&theme=tokyonight&v=3" alt="Languages by repo" />
 
 <br /><br />
 
