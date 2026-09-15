@@ -47,6 +47,9 @@ B.Sc. Data Science undergraduate at **Sri Krishna Arts and Science College, Coim
 ![Vector_Search](https://img.shields.io/badge/Vector_Search-00A67E?style=for-the-badge&logo=databricks&logoColor=white)
 ![Speech](https://img.shields.io/badge/Speech_%26_TTS-4285F4?style=for-the-badge&logo=googleassistant&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6C5CE7?style=for-the-badge&logo=probot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=googlelens&logoColor=white)
+![Federated Learning](https://img.shields.io/badge/Federated_Learning-0F766E?style=for-the-badge)
 
 ### 🔐 Security
 
@@ -54,6 +57,7 @@ B.Sc. Data Science undergraduate at **Sri Krishna Arts and Science College, Coim
 ![Prompt Injection](https://img.shields.io/badge/Prompt_Injection_Defense-2C3E50?style=for-the-badge&logo=hackaday&logoColor=white)
 ![RBAC](https://img.shields.io/badge/RBAC_%26_PII_Protection-16A085?style=for-the-badge&logo=auth0&logoColor=white)
 ![Network](https://img.shields.io/badge/Network_Scanning-E67E22?style=for-the-badge&logo=wireshark&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum_Proofs-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
 ### 🧰 Tools & Cloud
 
