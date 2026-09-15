@@ -72,13 +72,14 @@ B.Sc. Data Science undergraduate at **Sri Krishna Arts and Science College, Coim
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🛡️ **[Prompt_Shield (ASIPE)](https://github.com/Surjune/Prompt_Shield)** | Real-time DLP and prompt-injection defense that halts unsafe prompts at the DOM capture phase, before they ever reach the network | JavaScript · FastAPI · Next.js · SQLite |
-| 🎙️ **[Sonic-Rag](https://github.com/Surjune/Sonic-Rag)** | Voice-enabled Indic retrieval over 194,904 vectors in English, हिन्दी and தமிழ் — running entirely on CPU | Python · RAG · Speech |
-| 📡 **[IoT-Device-Security-Analyzer](https://github.com/Surjune/IoT-Device-Security-Analyzer)** | Discovers devices across a network and flags real exposure — open ports, default and weak credentials | Python · Network Security |
-| 🪔 **[Hajune](https://github.com/Surjune/Hajune)** | Tanglish programming language with Tamil keywords in Roman script — custom Unicode lexer, Chevrotain parser, AST, JS transpiler | JavaScript · Chevrotain · Compilers |
-| 🔐 **[JARNS](https://github.com/Surjune/JARNS)** | Enterprise knowledge platform enforcing role-based access control *inside* retrieval, with PII protection and citation-backed answers | Python · Hybrid Search · BM25 |
+| 🪔 **[Hajune](https://github.com/Surjune/Hajune)** | Tanglish (`.tml`) — a transpiled language with phonetic Tamil keywords in Roman script (`uruvaaku`, `irundhal`, `solluu`), so Tamil-medium students can learn programming logic without an English barrier | JavaScript · Chevrotain · Node.js |
+| 🎙️ **[Sonic-Rag](https://github.com/Surjune/Sonic-Rag)** | Voice-enabled Indic RAG over 194,904 vectors in English, हिन्दी and தமிழ் — 48 ms P50 retrieval on CPU, injection blocked before embedding, and a grounding threshold that refuses rather than invents | Python · RAG · Speech |
+| 🧑‍💻 **[Face-Detector](https://github.com/Surjune/Face-Detector)** | Detects and encodes a face, finds a genuine matching post on social media, and anchors it on Ethereum Sepolia as tamper-evident proof anyone can re-verify | Python · Computer Vision · Ethereum |
+| 🌫️ **[airwatch](https://github.com/Surjune/airwatch)** | Hyperlocal air quality for Indian cities — surfaces hotspots the city average hides, traces them to sources with wind data, and alerts the responsible district, in Hindi and Tamil | Python · Gemini · Federated Learning |
+| 📡 **[IoT-Device-Security-Analyzer](https://github.com/Surjune/IoT-Device-Security-Analyzer)** | Finds every IoT device on a Wi-Fi or LAN network, checks for open ports, weak passwords and unusual activity, assigns a risk score, and tells you how to fix it | Python · Network Security |
+| 🛡️ **[Prompt_Shield (ASIPE)](https://github.com/Surjune/Prompt_Shield)** | Real-time DLP and prompt-injection defense for ChatGPT and Gemini — a Manifest V3 extension, a FastAPI threat engine with smart prompt rewrites, and a Next.js admin console | JavaScript · FastAPI · Next.js |
 
-**Also building:** **Cliens (Climate Lien Score)** — an AI decision engine scoring building permits against long-term climate risk models, awarded 🏆 **Most Deployable** at AI for Sustainable Cities & Climate Action · **RiverGuard** — satellite imagery analysis detecting illegal sand extraction.
+**Also building:** **[JARNS](https://github.com/Surjune/JARNS)** — enterprise RAG enforcing access control *inside* retrieval, with a 200-probe access-control suite and zero leaks · **Cliens (Climate Lien Score)** — an AI decision engine scoring building permits against long-term climate risk, awarded 🏆 **Most Deployable** at AI for Sustainable Cities & Climate Action · **RiverGuard** — satellite imagery analysis detecting illegal sand extraction.
 
 ---
 
