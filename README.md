@@ -29,11 +29,10 @@ What I care about in the work: **numbers that are measured rather than claimed**
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
 | **[airwatch](https://github.com/Surjune/airwatch)**<br>[`🌐 live ↗`](https://airwatch-cbe.duckdns.org/) | Hyperlocal air quality for Indian cities. Surfaces the pollution hotspots a city average hides, traces them to likely sources with wind data, forecasts busy routes, and alerts the responsible district — in Hindi and Tamil | `Python` `FastAPI` `Gemini` `PostGIS` `Earth Engine` |
-| **[Sonic-Rag](https://github.com/Surjune/Sonic-Rag)**<br>[`🌐 live ↗`](https://www.lightninglogics.me/) | Voice-enabled Indic RAG over **194,904 vectors** in English, हिन्दी and தமிழ். **48 ms P50** retrieval on CPU, injection blocked before embedding, and a calibrated grounding threshold that refuses rather than invents | `Python` `TypeScript` `RAG` `Speech` `Docker` |
-| **[Prompt_Shield (ASIPE)](https://github.com/Surjune/Prompt_Shield)** | Real-time DLP and prompt-injection defense for ChatGPT and Gemini. A Manifest V3 extension halts unsafe prompts at the DOM capture phase, a FastAPI engine scores risk and rewrites them, and a Next.js console handles governance | `JavaScript` `FastAPI` `Next.js` `SQLite` |
+| **[AUV-3D](https://github.com/Surjune/AUV-3D)**<br>[`🌐 live ↗`](https://auv.lightninglogics.me) | Interactive 3D digital twin of an adaptive software-defined sonar transmitter payload for autonomous underwater vehicles — a three.js viewer with signal, power and frequency-plan views | `Three.js` `Python` `STM32` `Digital Twin` |
+| **[diode-sentinel](https://github.com/Surjune/diode-sentinel)** | Real-time passive AI/ML detection of cyber threats in unidirectional IP traffic. Read-only, no decryption, explainable alerts, and a hash-chained evidence ledger | `Python` `FastAPI` `Explainable AI` `IPFIX` `JA3` |
 | **[Face-Detector](https://github.com/Surjune/Face-Detector)** | Detects and encodes a face, finds a genuine matching post on social media, then anchors it on **Ethereum Sepolia** as tamper-evident proof anyone can independently re-verify | `Python` `Solidity` `Computer Vision` |
-| **[Hajune](https://github.com/Surjune/Hajune)** | Tanglish (`.tml`) — a transpiled language with phonetic Tamil keywords in Roman script (`uruvaaku`, `irundhal`, `solluu`), so Tamil-medium students learn programming logic without an English barrier | `JavaScript` `Chevrotain` `Node.js` |
-| **[IoT-Device-Security-Analyzer](https://github.com/Surjune/IoT-Device-Security-Analyzer)** | Finds every IoT device on a Wi-Fi or LAN network, checks for open ports, weak passwords and unusual activity, assigns a risk score, and gives clear remediation steps | `Python` `Network Security` |
+| **[Sonic-Rag](https://github.com/Surjune/Sonic-Rag)**<br>[`🌐 live ↗`](https://www.lightninglogics.me/) | Voice-enabled Indic RAG over **194,904 vectors** in English, हिन्दी and தமிழ். **48 ms P50** retrieval on CPU, injection blocked before embedding, and a calibrated grounding threshold that refuses rather than invents | `Python` `TypeScript` `RAG` `Speech` `Docker` |
 
 <details>
 <summary><b>More things I've built</b></summary>
@@ -42,10 +41,13 @@ What I care about in the work: **numbers that are measured rather than claimed**
 
 | Project | What it does |
 | :--- | :--- |
+| **[Prompt_Shield (ASIPE)](https://github.com/Surjune/Prompt_Shield)** | Real-time DLP and prompt-injection defense for ChatGPT and Gemini. A Manifest V3 extension halts unsafe prompts at the DOM capture phase, a FastAPI engine scores risk and rewrites them, and a Next.js console handles governance |
 | **[JARNS](https://github.com/Surjune/JARNS)** | Enterprise RAG enforcing access control *inside* retrieval rather than on model output. Hybrid search (vector + BM25 + RRF), PII redaction at ingest, full audit trail. **200-probe access-control suite: zero leaks** |
+| **[Hajune](https://github.com/Surjune/Hajune)** | Tanglish (`.tml`) — a transpiled language with phonetic Tamil keywords in Roman script (`uruvaaku`, `irundhal`, `solluu`), so Tamil-medium students learn programming logic without an English barrier |
+| **[fraudtrail](https://github.com/Surjune/fraudtrail)** | Digital fraud reporting with evidence storage and threat-pattern analysis |
+| **[IoT-Device-Security-Analyzer](https://github.com/Surjune/IoT-Device-Security-Analyzer)** | Finds every IoT device on a Wi-Fi or LAN network, checks for open ports, weak passwords and unusual activity, assigns a risk score, and gives clear remediation steps |
 | **Cliens (Climate Lien Score)** | AI decision engine scoring building permits against long-term climate risk models — awarded 🏆 **Most Deployable** at AI for Sustainable Cities & Climate Action |
 | **RiverGuard** | Satellite imagery analysis detecting illegal sand extraction, supporting environmental enforcement |
-| **[Nest](https://github.com/Surjune/Nest)** | Student mental-wellness triage. Transparent rule-based scoring routes students to AI self-help, a supervised intern, or a licensed professional |
 
 </details>
 
@@ -59,6 +61,7 @@ What I care about in the work: **numbers that are measured rather than claimed**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -87,6 +90,7 @@ What I care about in the work: **numbers that are measured rather than claimed**
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=googlelens&logoColor=white)
 ![Federated Learning](https://img.shields.io/badge/Federated_Learning-0F766E?style=for-the-badge)
 ![Earth Engine](https://img.shields.io/badge/Earth_Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white)
+![Explainable AI](https://img.shields.io/badge/Explainable_AI-00897B?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Security & Web3**
 
@@ -96,6 +100,7 @@ What I care about in the work: **numbers that are measured rather than claimed**
 ![Network](https://img.shields.io/badge/Network_Scanning-E67E22?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Intrusion Detection](https://img.shields.io/badge/Intrusion_Detection-7F1D1D?style=for-the-badge&logo=wireshark&logoColor=white)
 
 **Tools & Cloud**
 
@@ -105,6 +110,7 @@ What I care about in the work: **numbers that are measured rather than claimed**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 </div>
 
