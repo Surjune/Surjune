@@ -1,0 +1,125 @@
+{
+  "login": "Surjune",
+  "name": "Surjune R.S",
+  "pronouns": "He/Him",
+  "location": "Coimbatore, India",
+  "education": "B.Sc. Data Science @ SKASC",
+  "roles": [
+    "Agentic AI Developer",
+    "Cybersecurity & AI Safety",
+    "RAG + Voice Systems",
+    "AWS AI Head @ SKASC"
+  ],
+  "highlights": [
+    { "value": "8+", "label": "HACKATHONS" },
+    { "value": "AWS AI Head", "label": "@ SKASC" },
+    { "value": "Most Deployable", "label": "AI FOR SUSTAINABLE CITIES" }
+  ],
+  "about": "B.Sc. Data Science undergraduate at Sri Krishna Arts and Science College, building practical systems across AI, security and full-stack development. I care about numbers that are measured rather than claimed, models that refuse rather than invent, and security enforced at the layer where it actually binds.",
+  "now": [
+    { "label": "BUILDING", "value": "airwatch, AUV-3D and diode-sentinel" },
+    { "label": "FOCUS", "value": "Agentic AI, AI security, RAG and voice systems" },
+    { "label": "OPEN TO", "value": "AI/ML, full-stack, data analysis and cybersecurity roles" }
+  ],
+  "projects": [
+    {
+      "name": "airwatch",
+      "repo": "https://github.com/Surjune/airwatch",
+      "live": "https://airwatch-cbe.duckdns.org/",
+      "summary": "Hyperlocal air quality for Indian cities. Finds the hotspots a city average hides, traces them to likely sources with wind data, and alerts the responsible district.",
+      "tags": ["Python", "FastAPI", "React", "PostGIS", "Gemini", "Earth Engine"]
+    },
+    {
+      "name": "AUV-3D",
+      "repo": "https://github.com/Surjune/AUV-3D",
+      "live": "https://auv.lightninglogics.me",
+      "summary": "Interactive 3D digital twin of an adaptive, software-defined sonar transmitter payload for underwater vehicles, with signal, power and frequency-plan views.",
+      "tags": ["Three.js", "Python", "STM32", "Digital Twin"]
+    },
+    {
+      "name": "diode-sentinel",
+      "repo": "https://github.com/Surjune/diode-sentinel",
+      "live": null,
+      "summary": "Passive, real-time AI/ML threat detection on one-way IP traffic. Read-only with no decryption, explainable alerts, and a hash-chained evidence ledger.",
+      "tags": ["Python", "FastAPI", "IPFIX", "JA3", "Explainable AI"]
+    },
+    {
+      "name": "Face-Detector",
+      "repo": "https://github.com/Surjune/Face-Detector",
+      "live": null,
+      "summary": "Detects and encodes a face, finds a genuine matching post on social media, and anchors it on Ethereum Sepolia as tamper-evident proof anyone can re-verify.",
+      "tags": ["Python", "Solidity", "Ethereum", "Computer Vision"]
+    },
+    {
+      "name": "Sonic-Rag",
+      "repo": "https://github.com/Surjune/Sonic-Rag",
+      "live": "https://www.lightninglogics.me/",
+      "summary": "Voice-enabled Indic RAG over 194,904 vectors in English, Hindi and Tamil. 48 ms P50 retrieval on CPU, and a grounding threshold that refuses rather than invents.",
+      "tags": ["Python", "TypeScript", "RAG", "Speech", "Docker"]
+    }
+  ],
+  "stack": [
+    {
+      "group": "LANGUAGES",
+      "items": [
+        { "name": "Python", "icon": "python" },
+        { "name": "TypeScript", "icon": "typescript" },
+        { "name": "JavaScript", "icon": "javascript" },
+        { "name": "Solidity", "icon": "solidity" },
+        { "name": "HTML", "icon": "html5" },
+        { "name": "CSS", "icon": "css" }
+      ]
+    },
+    {
+      "group": "FRAMEWORKS",
+      "items": [
+        { "name": "React", "icon": "react" },
+        { "name": "Next.js", "icon": "nextdotjs" },
+        { "name": "Three.js", "icon": "threedotjs" },
+        { "name": "FastAPI", "icon": "fastapi" },
+        { "name": "Flask", "icon": "flask" },
+        { "name": "Node.js", "icon": "nodedotjs" }
+      ]
+    },
+    {
+      "group": "DATA",
+      "items": [
+        { "name": "PostgreSQL", "icon": "postgresql" },
+        { "name": "PostGIS", "icon": "postgresql" },
+        { "name": "SQLite", "icon": "sqlite" },
+        { "name": "SQLAlchemy", "icon": "sqlalchemy" },
+        { "name": "Pydantic", "icon": "pydantic" }
+      ]
+    },
+    {
+      "group": "AI · CLOUD · HW",
+      "items": [
+        { "name": "Gemini", "icon": "googlegemini" },
+        { "name": "Earth Engine", "icon": "googleearthengine" },
+        { "name": "Docker", "icon": "docker" },
+        { "name": "Actions", "icon": "githubactions" },
+        { "name": "AWS", "icon": null },
+        { "name": "Ethereum", "icon": "ethereum" },
+        { "name": "STM32", "icon": "stmicroelectronics" }
+      ]
+    }
+  ],
+  "domains": [
+    "RAG",
+    "Hybrid search",
+    "Agentic AI",
+    "Speech & TTS",
+    "Computer vision",
+    "Federated learning",
+    "Explainable AI",
+    "Data loss prevention",
+    "Prompt-injection defense",
+    "Intrusion detection",
+    "Network security",
+    "Digital twins"
+  ],
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/surjune/",
+    "email": "rajeswaris329@gmail.com"
+  }
+}
