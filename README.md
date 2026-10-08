@@ -1,38 +1,41 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=Agentic+AI+Developer;Cybersecurity+%26+AI+Safety;RAG+%2B+Voice+Systems;AWS+AI+Head+%40+SKASC;8%2B+Hackathons+and+counting" alt="Agentic AI Developer / Cybersecurity and AI Safety / RAG and Voice Systems / AWS AI Head at SKASC / 8+ Hackathons and counting" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surjune/Surjune/output/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/Surjune/Surjune/output/hero-light.svg" width="100%" alt="Surjune R.S — Agentic AI Developer, Cybersecurity and AI Safety, RAG and Voice Systems, AWS AI Head at SKASC. 8+ hackathons, Most Deployable at AI for Sustainable Cities.">
+</picture>
 
-### Surjune R.S
-
-**He/Him** &nbsp;·&nbsp; Coimbatore, India &nbsp;·&nbsp; B.Sc. Data Science @ SKASC
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/surjune/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeswaris329@gmail.com)
-[![Live Projects](https://img.shields.io/badge/Live_Projects-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://airwatch-cbe.duckdns.org/)
+<a href="https://www.linkedin.com/in/surjune/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surjune/Surjune/output/btn-linkedin-dark.svg"><img src="https://raw.githubusercontent.com/Surjune/Surjune/output/btn-linkedin-light.svg" height="44" alt="LinkedIn"></picture></a>&nbsp;&nbsp;<a href="mailto:rajeswaris329@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surjune/Surjune/output/btn-email-dark.svg"><img src="https://raw.githubusercontent.com/Surjune/Surjune/output/btn-email-light.svg" height="44" alt="Email"></picture></a>
 
 </div>
 
----
+<br>
 
-## 👋 About me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surjune/Surjune/output/about-dark.svg">
+  <img src="https://raw.githubusercontent.com/Surjune/Surjune/output/about-light.svg" width="100%" alt="About: B.Sc. Data Science undergraduate at Sri Krishna Arts and Science College, building practical systems across AI, security and full-stack development. Building airwatch, AUV-3D and diode-sentinel. Open to AI/ML, full-stack, data analysis and cybersecurity roles.">
+</picture>
 
-Building practical systems across **AI, security, and full-stack development** — the kind that ship, get measured, and hold up under real load. Two of the projects below are deployed and publicly reachable right now.
+<br><br>
 
-What I care about in the work: **numbers that are measured rather than claimed**, systems that **refuse rather than invent**, and security enforced at the layer where it actually binds.
+<a href="https://github.com/Surjune?tab=repositories">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surjune/Surjune/output/work-dark.svg">
+  <img src="https://raw.githubusercontent.com/Surjune/Surjune/output/work-light.svg" width="100%" alt="Selected work: airwatch, AUV-3D, diode-sentinel, Face-Detector and Sonic-Rag.">
+</picture>
+</a>
 
-> 💼 **Open to opportunities** in AI/ML, Full-stack Development, Data Analysis, and Cybersecurity.
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[airwatch](https://github.com/Surjune/airwatch)**<br>[`🌐 live ↗`](https://airwatch-cbe.duckdns.org/) | Hyperlocal air quality for Indian cities. Surfaces the pollution hotspots a city average hides, traces them to likely sources with wind data, forecasts busy routes, and alerts the responsible district — in Hindi and Tamil | `Python` `FastAPI` `Gemini` `PostGIS` `Earth Engine` |
-| **[AUV-3D](https://github.com/Surjune/AUV-3D)**<br>[`🌐 live ↗`](https://auv.lightninglogics.me) | Interactive 3D digital twin of an adaptive software-defined sonar transmitter payload for autonomous underwater vehicles — a three.js viewer with signal, power and frequency-plan views | `Three.js` `Python` `STM32` `Digital Twin` |
-| **[diode-sentinel](https://github.com/Surjune/diode-sentinel)** | Real-time passive AI/ML detection of cyber threats in unidirectional IP traffic. Read-only, no decryption, explainable alerts, and a hash-chained evidence ledger | `Python` `FastAPI` `Explainable AI` `IPFIX` `JA3` |
-| **[Face-Detector](https://github.com/Surjune/Face-Detector)** | Detects and encodes a face, finds a genuine matching post on social media, then anchors it on **Ethereum Sepolia** as tamper-evident proof anyone can independently re-verify | `Python` `Solidity` `Computer Vision` |
-| **[Sonic-Rag](https://github.com/Surjune/Sonic-Rag)**<br>[`🌐 live ↗`](https://www.lightninglogics.me/) | Voice-enabled Indic RAG over **194,904 vectors** in English, हिन्दी and தமிழ். **48 ms P50** retrieval on CPU, injection blocked before embedding, and a calibrated grounding threshold that refuses rather than invents | `Python` `TypeScript` `RAG` `Speech` `Docker` |
+<p align="center">
+<a href="https://github.com/Surjune/airwatch"><b>airwatch</b></a> <sup><a href="https://airwatch-cbe.duckdns.org/">live ↗</a></sup>
+&nbsp;·&nbsp;
+<a href="https://github.com/Surjune/AUV-3D"><b>AUV-3D</b></a> <sup><a href="https://auv.lightninglogics.me">live ↗</a></sup>
+&nbsp;·&nbsp;
+<a href="https://github.com/Surjune/diode-sentinel"><b>diode-sentinel</b></a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Surjune/Face-Detector"><b>Face-Detector</b></a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Surjune/Sonic-Rag"><b>Sonic-Rag</b></a> <sup><a href="https://www.lightninglogics.me/">live ↗</a></sup>
+</p>
 
 <details>
 <summary><b>More things I've built</b></summary>
@@ -42,105 +45,42 @@ What I care about in the work: **numbers that are measured rather than claimed**
 | Project | What it does |
 | :--- | :--- |
 | **[Prompt_Shield (ASIPE)](https://github.com/Surjune/Prompt_Shield)** | Real-time DLP and prompt-injection defense for ChatGPT and Gemini. A Manifest V3 extension halts unsafe prompts at the DOM capture phase, a FastAPI engine scores risk and rewrites them, and a Next.js console handles governance |
+| **[fraudtrail](https://github.com/Surjune/fraudtrail)** | Agentic card-fraud investigation on TigerGraph Savanna. Gathers evidence from the graph, names the pattern, asks for more evidence when unsure, and writes every case back as memory |
 | **[JARNS](https://github.com/Surjune/JARNS)** | Enterprise RAG enforcing access control *inside* retrieval rather than on model output. Hybrid search (vector + BM25 + RRF), PII redaction at ingest, full audit trail. **200-probe access-control suite: zero leaks** |
 | **[Hajune](https://github.com/Surjune/Hajune)** | Tanglish (`.tml`) — a transpiled language with phonetic Tamil keywords in Roman script (`uruvaaku`, `irundhal`, `solluu`), so Tamil-medium students learn programming logic without an English barrier |
-| **[fraudtrail](https://github.com/Surjune/fraudtrail)** | Digital fraud reporting with evidence storage and threat-pattern analysis |
 | **[IoT-Device-Security-Analyzer](https://github.com/Surjune/IoT-Device-Security-Analyzer)** | Finds every IoT device on a Wi-Fi or LAN network, checks for open ports, weak passwords and unusual activity, assigns a risk score, and gives clear remediation steps |
-| **Cliens (Climate Lien Score)** | AI decision engine scoring building permits against long-term climate risk models — awarded 🏆 **Most Deployable** at AI for Sustainable Cities & Climate Action |
+| **Cliens (Climate Lien Score)** | AI decision engine scoring building permits against long-term climate risk models — awarded **Most Deployable** at AI for Sustainable Cities & Climate Action |
 | **RiverGuard** | Satellite imagery analysis detecting illegal sand extraction, supporting environmental enforcement |
 
 </details>
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-**Backend & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**AI / Machine Learning**
-
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
-![Hybrid Search](https://img.shields.io/badge/Hybrid_Search_+_BM25-8E44AD?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector_Search-00A67E?style=for-the-badge&logo=databricks&logoColor=white)
-![Speech](https://img.shields.io/badge/Speech_%26_TTS-4285F4?style=for-the-badge&logo=googleassistant&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-6C5CE7?style=for-the-badge&logo=probot&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=googlelens&logoColor=white)
-![Federated Learning](https://img.shields.io/badge/Federated_Learning-0F766E?style=for-the-badge)
-![Earth Engine](https://img.shields.io/badge/Earth_Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white)
-![Explainable AI](https://img.shields.io/badge/Explainable_AI-00897B?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-**Security & Web3**
-
-![DLP](https://img.shields.io/badge/Data_Loss_Prevention-C0392B?style=for-the-badge&logo=shieldsdotio&logoColor=white)
-![Prompt Injection](https://img.shields.io/badge/Prompt_Injection_Defense-2C3E50?style=for-the-badge&logo=hackaday&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC_%26_PII_Protection-16A085?style=for-the-badge&logo=auth0&logoColor=white)
-![Network](https://img.shields.io/badge/Network_Scanning-E67E22?style=for-the-badge&logo=wireshark&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Intrusion Detection](https://img.shields.io/badge/Intrusion_Detection-7F1D1D?style=for-the-badge&logo=wireshark&logoColor=white)
-
-**Tools & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Surjune&theme=tokyonight&hide_border=true&border_radius=10&v=4" alt="Contribution streak" />
-
-<br /><br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surjune&theme=tokyonight&v=4" alt="GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surjune&theme=tokyonight&v=4" alt="Languages by repo" />
-
-<br /><br />
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surjune/Surjune/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Surjune/Surjune/output/github-snake.svg" />
-  <img alt="Contribution graph as a snake animation" src="https://raw.githubusercontent.com/Surjune/Surjune/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surjune/Surjune/output/stack-dark.svg">
+  <img src="https://raw.githubusercontent.com/Surjune/Surjune/output/stack-light.svg" width="100%" alt="Tech stack: Python, TypeScript, JavaScript, Solidity, HTML, CSS, React, Next.js, Three.js, FastAPI, Flask, Node.js, PostgreSQL, PostGIS, SQLite, SQLAlchemy, Pydantic, Gemini, Earth Engine, Docker, GitHub Actions, AWS, Ethereum and STM32.">
 </picture>
 
-</div>
+<br><br>
 
----
+<a href="https://github.com/Surjune">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surjune/Surjune/output/activity-dark.svg">
+  <img src="https://raw.githubusercontent.com/Surjune/Surjune/output/activity-light.svg" width="100%" alt="Contribution activity over the last 12 months, drawn as an isometric 3D calendar with total contributions, current and best streak, and peak day.">
+</picture>
+</a>
+
+<br><br>
+
+<a href="https://github.com/Surjune?tab=repositories">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Surjune/Surjune/output/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/Surjune/Surjune/output/languages-light.svg" width="100%" alt="Language breakdown across public repositories, with public repo, star, follower and pull request counts.">
+</picture>
+</a>
+
+<br><br>
 
 <div align="center">
-
-**Let's build something.** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/surjune/) &nbsp;·&nbsp; [Email](mailto:rajeswaris329@gmail.com)
-
+<sub>Cards regenerate every six hours from <a href="./data/profile.json"><code>data/profile.json</code></a> and live GitHub data via <a href="./scripts/generate.py"><code>scripts/generate.py</code></a>.</sub>
 </div>
